@@ -22,9 +22,11 @@
     "typescript": "^5.8.3"
   },
   "dependencies": {
+    "@types/uuid": "^10.0.0",
     "concurrently": "^9.2.0",
     "dotenv": "^17.2.0",
     "express": "^5.1.0",
-    "socket.io": "^4.8.1"
+    "socket.io": "^4.8.1",
+    "uuid": "^11.1.0"
   }
 }
